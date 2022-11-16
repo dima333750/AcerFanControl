@@ -8,12 +8,14 @@
 - Протестировано на ACER Aspire A315-42, Acer Aspire V3-571G, должен работать на 5750G.
 
 ### Применение
-1. [Установите драйверы, предоставленные Acer] (https://raw.githubusercontent.com/dima333750/acerfancontrol/master/drivers.zip) (run common.exe)
-2. [Загрузите последний выпуск] (https://github.com/dima333750/AcerFanControl/releases)
-3. Разируйте его где -нибудь и запустите.
+1. [Установите драйверы, предоставленные Acer](https://raw.githubusercontent.com/dima333750/acerfancontrol/master/drivers.zip) (запустить common.exe) и перезагрузить компьютер.
+2. [Загрузите последний выпуск](https://github.com/dima333750/AcerFanControl/releases)
+3. Распакуйте его где-нибудь и запустите.
 - Переключатель контролирует температуру, при которой он поворачивает вентилятор на максимум
 - Другой контролирует время после того, как кулер отключится.
 - ВКЛ/ВЫКЛ для ручного включения скорость на максимум
+
+[Второй драйвер если первый не работает](https://raw.githubusercontent.com/dima333750/acerfancontrol/master/driversц.zip) (запустить common.exe) и перезагрузить компьютер.
 
 ### Кредиты
 - https://github.com/neduard/acer_5750G_fan_maximiser
