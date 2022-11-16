@@ -1,3 +1,27 @@
+Это форк проекта https://github.com/jaryn-kubik/AcerFanControl, Большая благодарность jaryn-kubik !!
+Добавлена поддержка новым материнских плат, протестировано на ACER Aspire A315-42
+
+## Важно - если вы получите ошибку «неверная ручка устройства» после любого большего обновления Windows, попробуйте переустановить драйверы
+
+### Что оно делает
+- Мониторирует температуру процессора/графического процессора и включает вентилятор до максимальной скорости при достижении установленной температуры.
+- Протестировано на ACER Aspire A315-42, Acer Aspire V3-571G, должен работать на 5750G.
+
+### Применение
+1. [Установите драйверы, предоставленные Acer] (https://raw.githubusercontent.com/dima333750/acerfancontrol/master/drivers.zip) (run common.exe)
+2. [Загрузите последний выпуск] (https://github.com/dima333750/AcerFanControl/releases)
+3. Разируйте его где -нибудь и запустите.
+- Переключатель контролирует температуру, при которой он поворачивает вентилятор на максимум
+- Другой контролирует время после того, как кулер отключится.
+- ВКЛ/ВЫКЛ для ручного включения скорость на максимум
+
+### Кредиты
+- https://github.com/neduard/acer_5750G_fan_maximiser
+- http://community.acer.com/t5/Notebooks-Netbooks/Fan-Control-Problems-With-5750G-And-similar-machines/m-p/199637/highlight/true#M33756.
+- http://openhardwaremonitor.org/
+
+Оригинальное описание.
+
 ## IMPORTANT - if you get an error "Invalid device handle" after any bigger Windows update, try reinstalling the drivers
 
 ### What it does
