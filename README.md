@@ -15,7 +15,7 @@
 - Другой контролирует время после того, как кулер отключится.
 - ВКЛ/ВЫКЛ для ручного включения скорость на максимум
 
-[Второй драйвер если первый не работает](https://raw.githubusercontent.com/dima333750/acerfancontrol/master/drivers2.zip) (запустить common.exe) и перезагрузить компьютер.
+[Второй драйвер если первый не работает](https://github.com/dima333750/AcerFanControl/blob/master/driver2.zip) (запустить common.exe) и перезагрузить компьютер.
 
 ### Кредиты
 - https://github.com/neduard/acer_5750G_fan_maximiser
